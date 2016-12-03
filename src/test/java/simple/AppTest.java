@@ -1,4 +1,4 @@
-package fdgdfg;
+package simple;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

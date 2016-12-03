@@ -1,4 +1,4 @@
-package fdgdfg;
+package simple;
 
 /**
  * Hello world!
